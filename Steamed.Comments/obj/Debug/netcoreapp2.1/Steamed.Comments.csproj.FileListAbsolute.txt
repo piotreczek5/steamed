@@ -1,0 +1,12 @@
+C:\Users\Piotrek\source\repos\Steamed\Steamed.Comments\obj\Debug\netcoreapp2.1\Steamed.Comments.csprojAssemblyReference.cache
+C:\Users\Piotrek\source\repos\Steamed\Steamed.Comments\obj\Debug\netcoreapp2.1\Steamed.Comments.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\source\repos\Steamed\Steamed.Comments\obj\Debug\netcoreapp2.1\Steamed.Comments.AssemblyInfoInputs.cache
+C:\Users\Piotrek\source\repos\Steamed\Steamed.Comments\obj\Debug\netcoreapp2.1\Steamed.Comments.AssemblyInfo.cs
+C:\Users\Piotrek\source\repos\Steamed\Steamed.Comments\bin\Debug\netcoreapp2.1\Steamed.Comments.deps.json
+C:\Users\Piotrek\source\repos\Steamed\Steamed.Comments\bin\Debug\netcoreapp2.1\Steamed.Comments.dll
+C:\Users\Piotrek\source\repos\Steamed\Steamed.Comments\bin\Debug\netcoreapp2.1\Steamed.Comments.pdb
+C:\Users\Piotrek\source\repos\Steamed\Steamed.Comments\bin\Debug\netcoreapp2.1\Steamed.Core.dll
+C:\Users\Piotrek\source\repos\Steamed\Steamed.Comments\bin\Debug\netcoreapp2.1\Steamed.Core.pdb
+C:\Users\Piotrek\source\repos\Steamed\Steamed.Comments\obj\Debug\netcoreapp2.1\Steamed.Comments.csproj.CopyComplete
+C:\Users\Piotrek\source\repos\Steamed\Steamed.Comments\obj\Debug\netcoreapp2.1\Steamed.Comments.dll
+C:\Users\Piotrek\source\repos\Steamed\Steamed.Comments\obj\Debug\netcoreapp2.1\Steamed.Comments.pdb

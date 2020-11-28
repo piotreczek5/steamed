@@ -1,0 +1,12 @@
+C:\Users\Piotrek\source\repos\Steamed\Users\bin\Debug\netcoreapp2.1\Users.deps.json
+C:\Users\Piotrek\source\repos\Steamed\Users\bin\Debug\netcoreapp2.1\Users.dll
+C:\Users\Piotrek\source\repos\Steamed\Users\bin\Debug\netcoreapp2.1\Users.pdb
+C:\Users\Piotrek\source\repos\Steamed\Users\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\Piotrek\source\repos\Steamed\Users\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\Piotrek\source\repos\Steamed\Users\obj\Debug\netcoreapp2.1\Users.csprojAssemblyReference.cache
+C:\Users\Piotrek\source\repos\Steamed\Users\obj\Debug\netcoreapp2.1\Users.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\source\repos\Steamed\Users\obj\Debug\netcoreapp2.1\Users.AssemblyInfoInputs.cache
+C:\Users\Piotrek\source\repos\Steamed\Users\obj\Debug\netcoreapp2.1\Users.AssemblyInfo.cs
+C:\Users\Piotrek\source\repos\Steamed\Users\obj\Debug\netcoreapp2.1\Users.csproj.CopyComplete
+C:\Users\Piotrek\source\repos\Steamed\Users\obj\Debug\netcoreapp2.1\Users.dll
+C:\Users\Piotrek\source\repos\Steamed\Users\obj\Debug\netcoreapp2.1\Users.pdb

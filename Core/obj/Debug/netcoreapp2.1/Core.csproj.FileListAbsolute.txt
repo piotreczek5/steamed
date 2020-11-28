@@ -1,0 +1,11 @@
+C:\Users\Piotrek\source\repos\Steamed\Core\bin\Debug\netcoreapp2.1\Core.deps.json
+C:\Users\Piotrek\source\repos\Steamed\Core\bin\Debug\netcoreapp2.1\Core.runtimeconfig.json
+C:\Users\Piotrek\source\repos\Steamed\Core\bin\Debug\netcoreapp2.1\Core.runtimeconfig.dev.json
+C:\Users\Piotrek\source\repos\Steamed\Core\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\Piotrek\source\repos\Steamed\Core\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\Piotrek\source\repos\Steamed\Core\obj\Debug\netcoreapp2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\source\repos\Steamed\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+C:\Users\Piotrek\source\repos\Steamed\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
+C:\Users\Piotrek\source\repos\Steamed\Core\obj\Debug\netcoreapp2.1\Core.dll
+C:\Users\Piotrek\source\repos\Steamed\Core\obj\Debug\netcoreapp2.1\Core.pdb
+C:\Users\Piotrek\source\repos\Steamed\Core\obj\Debug\netcoreapp2.1\Core.csprojAssemblyReference.cache

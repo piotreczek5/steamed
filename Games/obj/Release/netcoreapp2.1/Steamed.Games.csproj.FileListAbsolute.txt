@@ -1,0 +1,12 @@
+C:\Users\Piotrek\source\repos\Steamed\Games\bin\Release\netcoreapp2.1\Steamed.Games.deps.json
+C:\Users\Piotrek\source\repos\Steamed\Games\bin\Release\netcoreapp2.1\Steamed.Games.dll
+C:\Users\Piotrek\source\repos\Steamed\Games\bin\Release\netcoreapp2.1\Steamed.Games.pdb
+C:\Users\Piotrek\source\repos\Steamed\Games\bin\Release\netcoreapp2.1\Steamed.Core.dll
+C:\Users\Piotrek\source\repos\Steamed\Games\bin\Release\netcoreapp2.1\Steamed.Core.pdb
+C:\Users\Piotrek\source\repos\Steamed\Games\obj\Release\netcoreapp2.1\Steamed.Games.csprojAssemblyReference.cache
+C:\Users\Piotrek\source\repos\Steamed\Games\obj\Release\netcoreapp2.1\Steamed.Games.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\source\repos\Steamed\Games\obj\Release\netcoreapp2.1\Steamed.Games.AssemblyInfoInputs.cache
+C:\Users\Piotrek\source\repos\Steamed\Games\obj\Release\netcoreapp2.1\Steamed.Games.AssemblyInfo.cs
+C:\Users\Piotrek\source\repos\Steamed\Games\obj\Release\netcoreapp2.1\Steamed.Games.csproj.CopyComplete
+C:\Users\Piotrek\source\repos\Steamed\Games\obj\Release\netcoreapp2.1\Steamed.Games.dll
+C:\Users\Piotrek\source\repos\Steamed\Games\obj\Release\netcoreapp2.1\Steamed.Games.pdb
